@@ -14,7 +14,7 @@ This is a quiz dedicated to show the knowledge of Javascript fundementals. This 
 - [Questions](#questions)
 
 ## Installation Instructions:
-Installation instructions: Downloaded the started code that was given then in the instructions. 
+Installation instructions: 
 
 ## Usage:
 Usage instructions: Click start quiz, Answer mulitple choices questions, Answer before time runs out, Put initial to be on the high-score board.
